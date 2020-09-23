@@ -1,0 +1,10 @@
+[Version]
+Version=2.1.6
+DOR=02-17-2002
+Filesize1=487
+Filesize2=KB
+Whatsnew=All new updater, now downloads updates via HTTP instead of FTP and faster downloads. Fixed bug with traceroute keeping some tools from working after using the tool. Some icon changes. Removed unused code from program making it a smaller size and a little faster. Redid resize for the "Stats" tool. Other minor fixes.
+DownloadSite=www.croftssoftware.com
+DownloadPath=Updates/CSInternetTools2/
+DownloadFile=Update_216.exe
+CloseProgramBeforeUpdate=Yes
